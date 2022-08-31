@@ -1,3 +1,1 @@
-script that prints the absolute path name of the current worki
-
-ng directory
+Display current directory contents in a long format
